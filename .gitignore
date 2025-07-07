@@ -1,0 +1,12 @@
+# Ignore all .zip, .mp4, .pt files
+*.zip
+*.mp4
+*.pt
+*.pth
+
+# Ignore .venv folder (hidden)
+venv/
+
+# Ignore cow_zip folder (if it's a directory, not a file)
+cow_zip/
+*.zip
